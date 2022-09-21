@@ -1,0 +1,14 @@
+{
+    "name": "awstools/app",
+    "require": {
+        "aws/aws-sdk-php": "^3.235"
+    },
+    "require-dev": {
+        "aws/aws-sdk-php": "^3.235"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
